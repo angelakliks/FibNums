@@ -1,6 +1,6 @@
 package numbs; 
 
-public class FibNumbers {
+public class FibNumbs {
 
 	public static int fibonacciR(int n)
 	{
@@ -43,3 +43,4 @@ public class FibNumbers {
 		}
 	}
 }
+
