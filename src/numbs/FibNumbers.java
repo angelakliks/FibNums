@@ -1,6 +1,6 @@
-package trialss; 
+package numbs; 
 
-public class haha {
+public class FibNumbers {
 
 	public static int fibonacciR(int n)
 	{
